@@ -1,0 +1,7 @@
+.options a {
+    transition: font-weight 0.3s ease; /* Smooth transition */
+}
+
+.options a:hover {
+    font-weight: bold; /* Make text bold on hover */
+}
